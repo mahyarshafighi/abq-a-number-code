@@ -1,4 +1,3 @@
-[README_new_abq.md](https://github.com/user-attachments/files/33147834/README_new_abq.md)
 # a-numbers of the Serre-type maximal curves of Abdón–Bezerra–Quoos
 
 Numerical verification code for the paper
